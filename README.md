@@ -17,7 +17,8 @@
 
 ## 🔭 About Me
 
-> - 🔭 **Current role:** Diploma in CS Student at **GLA University**
+> - 🔭 **Current role:** B.Tech in CS Student at **GLA University**
+> - 🔭 I have successfully completed my **Diploma in CS.**
 > - 🌱 **I’m currently learning:** Advanced **React.js patterns**, **Flutter**, and **System Design**
 > - 👯 **I’m open to collaborate on:** Frontend web development, Open-source tools, and UI/UX projects
 > - ⚡ **Fun fact:** I built a fully functional **Chess game** in Flutter because I love strategy both in code and on the board!
